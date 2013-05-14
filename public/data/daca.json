@@ -1,0 +1,54 @@
+{
+  "date_start": 1345006800,
+  "date_end": 1364706000,
+  "accepted": 472004,
+  "rejected": 16778,
+  "received": 488782,
+  "accepted_day": 3045,
+  "biometrics": 456843,
+  "under_review": 0,
+  "approved": 268361,
+  "denied": 1377,
+  "monthly": [
+    {
+      "month": 1343797200,
+      "accepted": 48052,
+      "rejected": 1909,
+      "received": 49961,
+      "accepted_day": 3696,
+      "biometrics": 18616,
+      "under_review": 0,
+      "approved": 0,s
+      "denied": 0
+    },
+    { 
+      "month": 1346475600,
+      "accepted": 104366,
+      "rejected": 3460,
+      "received": 107826,
+      "accepted_day": 5493,
+      "biometrics": 105439,
+      "under_review": 29747,
+      "approved": 1687,
+      "denied": 0
+    },
+    { 
+      "month": 1349067600
+    },
+    {
+      "month": 1383282000
+    },
+    {
+      "month": 1385877600
+    },
+    {
+      "month": 1357020000
+    },
+    {
+      "month": 1359698400
+    },
+    {
+      "month": 1362117600
+    }
+  ]
+}
