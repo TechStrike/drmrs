@@ -1,0 +1,23 @@
+{
+  "date_start": 1345006800,
+  "date_end": 1364706000,
+  "accepted": 472004,
+  "rejected": 16778,
+  "received": 488782,
+  "accepted_day": 3045,
+  "biometrics": 456843,
+  "under_review": 0,
+  "approved": 268361,
+  "denied": 1377,
+  "states": {
+    "california" : {
+      "accepted": 134167,
+      "approved": 73104
+    },
+     "texas" : {
+      "accepted": 76438,
+      "approved": 49297
+    }   
+  }
+
+}
