@@ -10,14 +10,225 @@
   "approved": 268361,
   "denied": 1377,
   "states": {
+    "alabama" : {
+      "accepted": 2378,
+      "approved": 1546
+    },
+    "alaska" : {
+      "accepted":52,
+      "approved": 27
+    },
+    "arizona" : {
+      "accepted":16653,
+      "approved": 10592
+    },
+    "arkansas" : {
+      "accepted":3210,
+      "approved": 2093
+    },
     "california" : {
       "accepted": 134167,
       "approved": 73104
     },
-     "texas" : {
-      "accepted": 76438,
+    "colorado" : {
+      "accepted":10105,
+      "approved": 6050
+    },
+    "connecticut" : {
+      "accepted":3108,
+      "approved": 2130
+    },
+    "delaware" : {
+      "accepted":857,
+      "approved": 604
+    },
+    "florida" : {
+      "accepted": 20764,
+      "approved": 9065
+    },
+    "georgia" : {
+      "accepted":15417,
+      "approved": 8647
+    },
+    "hawaii" : {
+      "accepted":201,
+      "approved": 98
+    },
+    "idaho" : {
+      "accepted":1898,
+      "approved": 1153
+    },
+    "illinois" : {
+      "accepted": 24928,
+      "approved": 19055
+    },
+    "indiana" : {
+      "accepted": 6105,
+      "approved": 2399
+    },
+    "iowa" : {
+      "accepted": 1697,
+      "approved": 1172
+    },
+    "kansas" : {
+      "accepted": 4021,
+      "approved": 2468
+    },
+    "kentucky" : {
+      "accepted": 1816,
+      "approved": 1166
+    },
+    "louisiana" : {
+      "accepted": 1187,
+      "approved": 741
+    },
+    "maine" : {
+      "accepted": 24,
+      "approved": 14
+    },
+    "maryland" : {
+      "accepted": 6241,
+      "approved": 4315
+    },
+    "massachusetts" : {
+      "accepted": 5411,
+      "approved": 2536
+    },
+    "michigan" : {
+      "accepted": 3663,
+      "approved": 2345
+    },
+    "minnesota" : {
+      "accepted": 3683,
+      "approved": 2371
+    },
+    "mississippi" : {
+      "accepted": 881,
+      "approved": 583
+    },
+    "missouri" : {
+      "accepted": 2053,
+      "approved": 1211
+    },
+    "montana" : {
+      "accepted": 24,
+      "approved": 8
+    },
+    "nebraska" : {
+      "accepted": 2047,
+      "approved": 1405
+    },
+    "nevada" : {
+      "accepted": 7514,
+      "approved": 2566
+    },
+    "new hampshire" : {
+      "accepted": 229,
+      "approved": 142
+    },
+    "new jersey" : {
+      "accepted": 14390,
+      "approved": 8483
+    },
+    "new mexico" : {
+      "accepted": 2976,
+      "approved": 1591
+    },
+    "new york" : {
+      "accepted": 26365,
+      "approved": 12324
+    },
+    "north carolina" : {
+      "accepted": 17006,
+      "approved": 6425
+    },
+    "north dakota" : {
+      "accepted": 27,
+      "approved": 12
+    },
+    "ohio" : {
+      "accepted": 2497,
+      "approved": 1555
+    },
+    "oklahoma" : {
+      "accepted": 3842,
+      "approved": 2086
+    },
+    "oregon" : {
+      "accepted": 6661,
+      "approved": 4271
+    },
+    "pennsylvania" : {
+      "accepted": 3408,
+      "approved": 2120
+    },
+    "rhode island" : {
+      "accepted": 787,
+      "approved": 481
+    },
+    "south carolina" : {
+      "accepted": 17006,
+      "approved": 6425
+    },
+    "south dakota" : {
+      "accepted": 156,
+      "approved": 95
+    },
+    "tennessee" : {
+      "accepted": 4859,
+      "approved": 1714
+    },
+    "texas" : {
+      "accepted":76438,
       "approved": 49297
-    }   
+    },
+    "utah" : {
+      "accepted": 5437,
+      "approved": 3413
+    },
+    "vermont" : {
+      "accepted": 0,
+      "approved": 0
+    },
+    "virginia" : {
+      "accepted": 7898,
+      "approved": 3619
+    },
+    "washington" : {
+      "accepted": 9732,
+      "approved": 5653
+    },
+    "west virginia" : {
+      "accepted": 65,
+      "approved": 49
+    },
+    "wisconsin" : {
+      "accepted": 4190,
+      "approved": 2581
+    },
+    "wyoming" : {
+      "accepted": 346,
+      "approved": 189
+    },
+    "district of columbia" : {
+      "accepted" : 458,
+      "approved" : 178
+    },
+    "puerto rico" : {
+      "accepted" : 116,
+      "approved" : 41
+    },
+    "other" : {
+      "accepted" : 20,
+      "approved" : 8
+    },
+    "guam" : {
+      "accepted" : 13,
+      "approved" : 11,
+    },
+    "virgin islands" : {
+      "accepted" : 53,
+      "approved" : 19
+    }
   }
-
 }
