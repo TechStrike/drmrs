@@ -122,27 +122,27 @@
       "accepted": 7514,
       "approved": 2566
     },
-    "new hampshire" : {
+    "new_hampshire" : {
       "accepted": 229,
       "approved": 142
     },
-    "new jersey" : {
+    "new_jersey" : {
       "accepted": 14390,
       "approved": 8483
     },
-    "new mexico" : {
+    "new_mexico" : {
       "accepted": 2976,
       "approved": 1591
     },
-    "new york" : {
+    "new_york" : {
       "accepted": 26365,
       "approved": 12324
     },
-    "north carolina" : {
+    "north_carolina" : {
       "accepted": 17006,
       "approved": 6425
     },
-    "north dakota" : {
+    "north_dakota" : {
       "accepted": 27,
       "approved": 12
     },
@@ -162,15 +162,15 @@
       "accepted": 3408,
       "approved": 2120
     },
-    "rhode island" : {
+    "rhode_island" : {
       "accepted": 787,
       "approved": 481
     },
-    "south carolina" : {
+    "south_carolina" : {
       "accepted": 17006,
       "approved": 6425
     },
-    "south dakota" : {
+    "south_dakota" : {
       "accepted": 156,
       "approved": 95
     },
@@ -198,7 +198,7 @@
       "accepted": 9732,
       "approved": 5653
     },
-    "west virginia" : {
+    "west_virginia" : {
       "accepted": 65,
       "approved": 49
     },
@@ -210,11 +210,11 @@
       "accepted": 346,
       "approved": 189
     },
-    "district of columbia" : {
+    "district_of_columbia" : {
       "accepted" : 458,
       "approved" : 178
     },
-    "puerto rico" : {
+    "puerto_rico" : {
       "accepted" : 116,
       "approved" : 41
     },
@@ -224,9 +224,9 @@
     },
     "guam" : {
       "accepted" : 13,
-      "approved" : 11,
+      "approved" : 11
     },
-    "virgin islands" : {
+    "virgin_islands" : {
       "accepted" : 53,
       "approved" : 19
     }
