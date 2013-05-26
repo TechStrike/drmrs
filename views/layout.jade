@@ -1,7 +1,26 @@
-doctype 5
-html
-  head
-    title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-  body
-    block content
+!!! 5
+html(lang='en')
+	head
+		title= title
+		meta(name='charset', content="utf-8")
+		meta(name='viewport', content="width=device-width, initial-scale=1.0")
+		link(rel='stylesheet', href='//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css')
+		link(rel='stylesheet', href='/stylesheets/style.css')
+		link(rel='stylesheet', href='//fonts.googleapis.com/css?family=OpenSans')
+		link(rel='shortcut icon', href='/images/favicon.ico', type="image/x-icon")
+
+	body
+		div.container.fluid
+			block content
+		footer
+			p.note.
+				craftily coded by tech|STRIKE in oakland, ca
+		
+		script(src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js")
+		script(src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0-rc.4/handlebars.min.js")
+		script(src="//cdnjs.cloudflare.com/ajax/libs/ember.js/1.0.0-rc.3/ember.min.js")
+		script(src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js")
+		//- this app.js belongs to embers not node
+		script(src="/javascripts/app.js")
+
+
