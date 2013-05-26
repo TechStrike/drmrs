@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'DACA Stats' });
+  res.render('index', { title: 'DACA Stats', subtitle: 'dashboard' });
 };
