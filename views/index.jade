@@ -5,15 +5,4 @@ block content
    h1= title
     small  #{subtitle}
   p.stuff This is an <strong>important</strong> message.
-  
-  //- For embers, Might be best to move to partials or move to Static HTML (no jade)
-  script(type="text/x-handlebars") {{ outlet }}
-
-  script(type="text/x-handlebars",id="index")
-   <h3>States</h3>
-   <ul>
-   {{#each model}}
-   <li>For: <b>{{fullStateName}}</b>, Accepted: {{accepted}} Approved: {{approved}}</li>
-   {{/each}}
-   </ul>
  
