@@ -1,0 +1,56 @@
+  <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>DACA Stats</title>
+    <meta name="charset" content="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css">
+    <link rel="stylesheet" href="/stylesheets/style.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+    <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://raw.github.com/shutterstock/rickshaw/master/rickshaw.min.js"></script>
+  </head>
+  <body>
+    <div class="container fluid">
+      <div class="page-header">
+        <h1>DACA Stats<small> dashboard</small></h1>
+      </div>
+      <p class="stuff">This is an <strong>important</strong> message.</p>
+      <h3>States</h3>
+      <ul id="states"></ul>
+      <div id="chart"></div>
+    </div>
+    <footer>
+      <p class="note">
+        craftily coded by tech|STRIKE in oakland, ca
+      </p>
+    </footer>
+
+    <script>
+    var data = [ 
+    { x: 0, y: 40 },
+    { x: 1, y: 49 },
+    { x: 2, y: 17 },
+    { x: 3, y: 42 } 
+    ];
+
+    var graph = new Rickshaw.Graph( {
+      element: document.getElementById("chart"),
+      width: 580,
+      height: 250,
+      series: [ {
+        color: 'steelblue',
+        data: data
+      } ]
+    } );
+
+    graph.render();
+    </script>
+
+  </body>
+</html>
+
+
+
