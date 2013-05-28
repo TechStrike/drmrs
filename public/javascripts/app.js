@@ -1,7 +1,7 @@
 (function($) {
 
   //get daca State data on load
-  $.getJSON("/data/states.json")
+  $.getJSON("/public/data/states.json")
    .done( function( data ) {
     useStateData(data);
   
@@ -23,7 +23,7 @@
   }
 
   //get daca State data on load
-  $.getJSON("/data/daca.json")
+  $.getJSON("/public/data/daca.json")
    .done( function( data ) {
     //console.log(data);
     //useDacaData(data);
