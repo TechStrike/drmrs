@@ -40,7 +40,7 @@ app.configure('development', function(){
 });
 //handle our index route defined in routes index.js
 //the file will render our index page taken from the index.jade view which is structured in our layout.jade
-app.get('/', routes.index);
+ app.get('/', routes.index); 
 //create our server using express, listen on our deignated port console to make sure everythings running fine
 http.createServer(app).listen(app.get('port'), function(){
   console.log("Express server listening on port " + app.get('port'));
