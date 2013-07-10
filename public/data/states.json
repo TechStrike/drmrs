@@ -12,218 +12,272 @@
   "states": {
     "alabama" : {
       "accepted": 2378,
+      "color" : "#F7464A",
       "approved": 1546
     },
     "alaska" : {
       "accepted":52,
+      "color" : "#B0171F",
       "approved": 27
     },
     "arizona" : {
       "accepted":16653,
+      "color" : "#FFAEB9",
       "approved": 10592
     },
     "arkansas" : {
       "accepted":3210,
+      "color" : "#CDC1C5",
       "approved": 2093
     },
     "california" : {
       "accepted": 134167,
+      "color" : "#FF1493",
       "approved": 73104
     },
     "colorado" : {
       "accepted":10105,
+      "color" : "#DA70D6",
       "approved": 6050
     },
     "connecticut" : {
       "accepted":3108,
+      "color" : "#CDB5CD",
       "approved": 2130
     },
     "delaware" : {
       "accepted":857,
+      "color" : "#8B4789",
       "approved": 604
     },
     "florida" : {
       "accepted": 20764,
+      "color" : "#836FFF",
       "approved": 9065
     },
     "georgia" : {
       "accepted":15417,
+      "color" : "#CAE1FF",
       "approved": 8647
     },
     "hawaii" : {
       "accepted":201,
+      "color" : "#1C86EE",
       "approved": 98
     },
     "idaho" : {
       "accepted":1898,
+      "color" : "#63B8FF",
       "approved": 1153
     },
     "illinois" : {
       "accepted": 24928,
+      "color" : "#00BFFF",
       "approved": 19055
     },
     "indiana" : {
       "accepted": 6105,
+      "color" : "#98F5FF",
       "approved": 2399
     },
     "iowa" : {
       "accepted": 1697,
+      "color" : "#C1CDCD",
       "approved": 1172
     },
     "kansas" : {
       "accepted": 4021,
+      "color" : "#668B8B",
       "approved": 2468
     },
     "kentucky" : {
       "accepted": 1816,
+      "color" : "#76EEC6",
       "approved": 1166
     },
     "louisiana" : {
       "accepted": 1187,
+      "color" : "#F7464A",
       "approved": 741
     },
     "maine" : {
       "accepted": 24,
+      "color" : "#F7464A",
       "approved": 14
     },
     "maryland" : {
       "accepted": 6241,
+      "color" : "#9AFF9A",
       "approved": 4315
     },
     "massachusetts" : {
       "accepted": 5411,
+      "color" : "#C1FFC1",
       "approved": 2536
     },
     "michigan" : {
       "accepted": 3663,
+      "color" : "#9AFF9A",
       "approved": 2345
     },
     "minnesota" : {
       "accepted": 3683,
+      "color" : "#32CD32",
       "approved": 2371
     },
     "mississippi" : {
       "accepted": 881,
+      "color" : "#C0FF3E",
       "approved": 583
     },
     "missouri" : {
       "accepted": 2053,
+      "color" : "#CDCDC1",
       "approved": 1211
     },
     "montana" : {
       "accepted": 24,
+      "color" : "#000000",
       "approved": 8
     },
     "nebraska" : {
       "accepted": 2047,
+      "color" : "#EEE685",
       "approved": 1405
     },
     "nevada" : {
       "accepted": 7514,
+      "color" : "#8B8970",
       "approved": 2566
     },
     "new_hampshire" : {
       "accepted": 229,
+      "color" : "#FFD700",
       "approved": 142
     },
     "new_jersey" : {
       "accepted": 14390,
+      "color" : "#FF7F00",
       "approved": 8483
     },
     "new_mexico" : {
       "accepted": 2976,
+      "color" : "#F7464A",
       "approved": 1591
     },
     "new_york" : {
       "accepted": 26365,
+      "color" : "#CDAF95",
       "approved": 12324
     },
     "north_carolina" : {
       "accepted": 17006,
+      "color" : "#8B8682",
       "approved": 6425
     },
     "north_dakota" : {
       "accepted": 27,
+      "color" : "#FF4500",
       "approved": 12
     },
     "ohio" : {
       "accepted": 2497,
+      "color" : "#FF4040",
       "approved": 1555
     },
     "oklahoma" : {
       "accepted": 3842,
+      "color" : "#7171C6",
       "approved": 2086
     },
     "oregon" : {
       "accepted": 6661,
+      "color" : "#7D9EC0",
       "approved": 4271
     },
     "pennsylvania" : {
       "accepted": 3408,
+      "color" : "#388E8E",
       "approved": 2120
     },
     "rhode_island" : {
       "accepted": 787,
+      "color" : "#71C671",
       "approved": 481
     },
     "south_carolina" : {
       "accepted": 17006,
+      "color" : "#8E8E38",
       "approved": 6425
     },
     "south_dakota" : {
       "accepted": 156,
+      "color" : "#C5C1AA",
       "approved": 95
     },
     "tennessee" : {
       "accepted": 4859,
+      "color" : "#C67171",
       "approved": 1714
     },
     "texas" : {
       "accepted":76438,
+      "color" : "#555555",
       "approved": 49297
     },
     "utah" : {
       "accepted": 5437,
+      "color" : "#BDBDBD",
       "approved": 3413
     },
     "virginia" : {
       "accepted": 7898,
+      "color" : "#ADFF2F",
       "approved": 3619
     },
     "washington" : {
       "accepted": 9732,
+      "color" : "#006400",
       "approved": 5653
     },
     "west_virginia" : {
       "accepted": 65,
+      "color" : "#E0EEE0",
       "approved": 49
     },
     "wisconsin" : {
       "accepted": 4190,
+      "color" : "#00EE76",
       "approved": 2581
     },
     "wyoming" : {
       "accepted": 346,
+      "color" : "#808A87",
       "approved": 189
     },
     "district_of_columbia" : {
       "accepted" : 458,
+      "color" : "#8EE5EE",
       "approved" : 178
     },
     "puerto_rico" : {
       "accepted" : 116,
+      "color" : "#551A8B",
       "approved" : 41
     },
     "other" : {
       "accepted" : 20,
+      "color" : "#FF34B3",
       "approved" : 8
     },
     "guam" : {
       "accepted" : 13,
+      "color" : "#B0171F",
       "approved" : 11
     },
     "virgin_islands" : {
       "accepted" : 53,
+      "color" : "#8B8386",
       "approved" : 19
     }
   }
